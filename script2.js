@@ -1,4 +1,1 @@
-let aluno = {
-    
-
-}
+console.log("hello world")
