@@ -57,3 +57,58 @@ console.log(aluno);*/
 
 aluno.apresentar();*/
 
+/*let livro ={
+    titulo: "blalba",
+    autor: "eu",
+    ano: 2025,
+    disponível: Boolean,
+    emprestar(){
+        disponível = false
+      console.log(disponível)
+    }
+}
+livro.emprestar()*/
+
+/*let produto = {
+    nome: "sabao",
+    preco: 25,
+    estoque: 2,
+    vender(qtd){
+        if (qtd<2){
+            estoque=2
+            estoque-=qtd
+            console.log(estoque)
+        }
+    },
+    repor(qtd){
+        if(qtd>2){
+            estoque=2
+            estoque+=qtd
+            console.log(estoque)
+        }
+
+    }
+}
+
+produto.repor(5);*/
+
+/*let contaBancaria = {
+      titular: "Pedro",
+      saldo: 20,
+      depositar(valor){
+        saldo = 20
+        saldo+=valor
+        console.log(saldo)
+      },
+      sacar(valor){
+        saldo = 20
+        if (saldo>0){
+            saldo-=valor
+            console.log(saldo)
+        }else{
+            console.log("nao tem saldo")
+        }
+      }
+      
+}
+contaBancaria.sacar(10)*/
